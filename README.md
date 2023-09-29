@@ -13,7 +13,7 @@ I'm enthusiastic about collaborating on projects that involve full-stack develop
 
 ## 📫 How to reach me...
 If you'd like to connect or collaborate, feel free to reach out to me via the following channels:
-- Email: [tumisang@gmail.com](https://www.gmail.com)
+- Email: [Tumisang@gmail.com](http://mail.google.com/mail?hl=en)
 - LinkedIn: [Tumisang Nke](https://www.linkedin.com/in/yourname/tumisang-nke-014stu/)
 - GitHub: [Tumii01](https://github.com/Tumii01/)
 

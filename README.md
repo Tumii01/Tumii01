@@ -8,6 +8,19 @@ I'm currently interested in full-stack development, with a focus on mastering fr
 ## 🌱 I’m currently learning...
 I'm actively learning and honing my skills in frontend technologies like JavaScript, as well as backend languages such as JavaScript and Python. I'm also exploring frameworks like React and Angular to enhance my understanding of frontend development. Additionally, I'm self-studying databases, server management, and cloud computing, with a keen interest in technologies like Node.js.
 
+## 💻I am good in...
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
 ## 🤝 I’m looking to collaborate on...
 I'm enthusiastic about collaborating on projects that involve full-stack development, web applications, or innovative solutions. I'm eager to work with a diverse team where I can contribute my skills, problem-solving mindset, and creativity to drive impactful outcomes.
 

@@ -26,6 +26,17 @@ I'm actively learning and honing my skills in frontend technologies like JavaScr
   <img width="12" />
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" height="40" alt="css3 logo"  />
     <img width="12" />
+    <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" height="40" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase" height="40" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm" height="40" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github" height="40" alt="css3 logo"  />
+    <img width="12" />
+     <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" height="40" alt="css3 logo"  />
+    <img width="12" />
+    
 
 </div>
 
